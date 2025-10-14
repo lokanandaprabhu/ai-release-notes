@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ai-release-notes
+  annotations:
+    github.com/project-slug: lokanandaprabhu/ai-release-notes
+spec:
+  type: other
+  lifecycle: unknown
+  owner: user:development/guest
