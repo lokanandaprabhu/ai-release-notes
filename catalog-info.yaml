@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: lokanandaprabhu/ai-release-notes
 spec:
   type: other
+  owner: lokanandaprabhu
   lifecycle: unknown
-  owner: user:development/guest
